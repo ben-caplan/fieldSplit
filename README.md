@@ -5,7 +5,7 @@ A jQuery Plugin that will split the contents of one input into two designated in
 
 Notes
 ----------
-The inteded use for this plugin is to take one input and dynamically split the typed value into two other fields. A good use case for this plugin (and the reason that it was originally developed) is if a form needs to submit a "first-name" and a "lastp-name", but for the user experience, you only want to offer your audience one visible "name" field. You will then want to the contents of the one field to be split after the first space to break the name into first name and last name. 
+The inteded use for this plugin is to take one input and dynamically split the typed value into two other fields. A good use case for this plugin (and the reason that it was originally developed) is if a form needs to submit a "first-name" and a "last-name", but for the user experience, you only want to offer your audience one visible "name" field. You will then want to the contents of the one field to be split after the first space to break the name into first name and last name. 
 
 *This is of course a generealization of how people's names are written, but seem to generally get the job done.*
 
