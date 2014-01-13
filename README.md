@@ -37,9 +37,9 @@ Now it is time for the JavaScript! This plugin is dependant upon jQuery, so you 
 
 You will now want to include the fieldSlipt plugin from this repo (once you have downloaded it of course) like so:
 
-`<script src="js/jquery.splitfield.current.js"></script>`
+`<script src="js/jquery.fieldsplit.current.js"></script>`
 
-Now you need to create a "custom" function inside of a document ready statement that will run the splitField Method on your desired field:
+Now you need to create a "custom" function inside of a document ready statement that will run the fieldSplit Method on your desired field:
 
 ```
 <script>
